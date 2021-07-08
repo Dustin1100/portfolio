@@ -6,12 +6,12 @@
   <p align="center">
     This is a React-Bootstrap website.
     <br />
-    <a href="https://github.com/Dustin1100/main"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Dustin1100/portfolio"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Dustin1100/main/issues">Report Bug</a>
+    <a href="https://github.com/Dustin1100/portfolio/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Dustin1100/main/issues">Request Feature</a>
+    <a href="https://github.com/Dustin1100/portfolio/issues">Request Feature</a>
   </p>
 </p>
 
@@ -32,11 +32,12 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#run">Run</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#ackknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -80,6 +81,11 @@ This is an example of how to list things you need to use the software and how to
    npm install
    ```
 
+### Run
+* npm
+  ```sh
+  npm start
+  ```
 
 <!-- CONTRIBUTING -->
 ## Contributing
